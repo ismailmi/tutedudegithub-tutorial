@@ -1,21 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profile>
+
+```
 <header>
     <name>Mohammed Ismail</name>
     <title>DevOps | Cybersecurity | Networking</title>
 </header>
 
 <about>
-    <role>Network and System Administrator</role>
-    <interest>Cybersecurity Enthusiast (CEH)</interest>
-    <learning>DevOps and Automation</learning>
-    <focus>CCNP Enterprise and Security</focus>
+    <description>
+        Network and System Administrator with strong interest in Cybersecurity and DevOps.
+        Currently learning automation, deployment, and advanced networking concepts.
+    </description>
     <goal>To become a highly skilled IT professional</goal>
+    <currentFocus>CCNP Enterprise and Security</currentFocus>
 </about>
 
 <skills>
+
     <networking>
         <item>CCNA Fundamentals</item>
         <item>Routing and Switching</item>
-        <item>VLANs, STP, RSTP</item>
+        <item>VLANs</item>
+        <item>STP and RSTP</item>
     </networking>
 
     <cybersecurity>
@@ -30,6 +38,7 @@
         <item>CI/CD Concepts</item>
         <item>Docker (Learning)</item>
     </devops>
+
 </skills>
 
 <tools>
@@ -57,3 +66,6 @@
 <quote>
     Consistency beats talent. Keep learning every day.
 </quote>
+```
+
+</profile>
